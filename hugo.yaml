@@ -154,9 +154,9 @@ params:
           url: https://github.com/juan-abr/
         - icon: fab fa-linkedin
           url: https://linkedin.com/in/juan-abr/
-        - icon: fab fa-twitch
-          url: https://twitch.tv/juan_abr/
         #TODO: Add more social links.
+        #- icon: fab fa-twitch
+        #  url: https://twitch.tv/juan_abr/
         #- icon: fab fa-instagram
         #  url: https://example.com
         #- icon: fab fa-x-twitter
@@ -171,7 +171,7 @@ params:
     title: "About Me"
     image: ""
     content: |-
-      Driven to leverage experience in agile development and scrum, and to utilize my major as it pertains to Information Systems Management. Eager to fill a software development or IT support role with a local company promoting growth and development.
+      Entry-level software developer with hands-on experience in ASP.NET, Django, Hugo, and RESTful APIs. Driven to leverage experience in agile development and scrum, and to utilize my major in Information Systems Management. Eager to fill a software development or IT support role with opportunities for personal growth and development.
 
       I am currently working on Central Maryland Martial Arts's website.
     skills:
@@ -290,7 +290,7 @@ params:
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, send me a message and I’ll get right back to you!
     btnName: Mail me
-    btnLink: mailto:juanabarro@protonmail.com
+    btnLink: mailto:juan@juan.codes
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
